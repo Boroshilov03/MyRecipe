@@ -1,0 +1,9 @@
+.recipeTile_img {
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.recipeTile_name {
+  text-align: center;
+  margin: 12px 0;
+}
